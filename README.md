@@ -1,7 +1,7 @@
 # Bone-Fracture-Detection
 MI - CS302 - Project     
 
-# PPT Link:  
+PPT Link -  
 https://www.canva.com/design/DAFRenrX65w/eVo84ZqYj8EoHXUXqS97ig/view?utm_content=DAFRenrX65w&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink
 
 Dataset -   
@@ -49,5 +49,5 @@ Categorical crossentropy is the best suited loss function for multi-class classi
   
   
 ## Accuracy and Loss Metrics  
-Accuracy - 85.38
+Accuracy - 85.38  
 AUC Score - 0.76
