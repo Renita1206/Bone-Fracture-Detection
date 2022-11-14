@@ -1,5 +1,8 @@
 # Bone-Fracture-Detection
-MI - CS302 - Project   
+MI - CS302 - Project     
+
+# PPT Link:  
+https://www.canva.com/design/DAFRenrX65w/eVo84ZqYj8EoHXUXqS97ig/view?utm_content=DAFRenrX65w&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink
 
 Dataset -   
   https://www.kaggle.com/datasets/andradaolteanu/rsna-fracture-detection  
